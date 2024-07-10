@@ -10,3 +10,5 @@ The models were evaluated in terms of accuracy, loss, and ROC curves. Accuracy m
 
 The goal is to improve screening and diagnostic practices, contributing to earlier treatment and better patient survival rates.
 
+![image](https://github.com/ImanElacrouch/Breast-Cancer-/assets/136861359/a43a233d-fc38-4d50-8ad5-07d272f53bb5)
+
