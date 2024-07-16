@@ -1,4 +1,4 @@
-# Breast-Cancer-
+# Breast_Cancer
 
 Breast cancer is one of the most common forms of cancer among women, with alarming statistics in Morocco. Due to its high incidence and devastating impact, implementing effective early detection and diagnosis strategies is crucial. This project focuses on the automated detection of breast cancer using mammogram images, employing advanced image processing and deep learning techniques. 
 
